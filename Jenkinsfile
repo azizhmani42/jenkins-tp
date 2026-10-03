@@ -6,7 +6,7 @@ pipeline {
             steps {
                 echo 'Pulling...'
                 git branch: 'main',
-                    url: 'https://github.com/TON-COMPTE/jenkins-tp.git'
+                    url: 'https://github.com/azizhmani42/jenkins-tp.git'
             }
         }
 
